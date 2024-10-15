@@ -1,0 +1,7 @@
+requests
+psutil
+time
+json
+subprocess
+python-dotenv
+
